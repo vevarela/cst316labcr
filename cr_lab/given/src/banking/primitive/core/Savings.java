@@ -37,7 +37,7 @@ public class Savings extends Account {
 				balance = balance - 1.0f;
 			}	
 			// KG BVA: should be < 0
-			if (balance <= 0.0f) {
+			if (balance < 0.0f) {
 				setState(State.OVERDRAWN);
 			}
 			return true;
