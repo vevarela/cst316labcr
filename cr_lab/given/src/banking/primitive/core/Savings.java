@@ -1,4 +1,10 @@
 package banking.primitive.core;
+/**
+ * Savings.java
+ * 
+ * @author kevinagary
+ * @version 2/22/2016
+ */
 
 public class Savings extends Account {
 	private static final long serialVersionUID = 111L;
