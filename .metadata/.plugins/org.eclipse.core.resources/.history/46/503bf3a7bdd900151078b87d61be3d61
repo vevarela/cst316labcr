@@ -12,6 +12,7 @@ public class Savings extends Account {
 		super(name, balance);
 	}
 
+	
 	/**
 	 * A deposit comes with a fee of 50 cents per deposit
 	 */
