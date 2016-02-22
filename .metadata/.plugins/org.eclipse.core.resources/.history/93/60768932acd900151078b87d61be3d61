@@ -1,12 +1,8 @@
 package banking.primitive.core;
 
 /**
- * Checking.java
- * 
  * method for the Checking account.
  * @author kevinagary
- * 
- * @version 2-22-16
  *
  */
 public class Checking extends Account {
