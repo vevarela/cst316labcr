@@ -32,7 +32,6 @@ public class Checking extends Account {
 		return false;
 	}
 
-	
 	/**
 	 * Withdrawal. After 10 withdrawals a fee of $2 is charged per transaction You may 
 	 * continue to withdraw an overdrawn account until the balance is below -$100
