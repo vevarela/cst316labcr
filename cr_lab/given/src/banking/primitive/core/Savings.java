@@ -1,6 +1,8 @@
 package banking.primitive.core;
 /**
  * Savings.java
+ * Savings extends Account. Includes functionality to create
+ * a savings account.
  * 
  * @author kevinagary
  * @version 2/22/2016
